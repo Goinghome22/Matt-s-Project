@@ -1,0 +1,80 @@
+==============================
+Unix Notes for Vacation Budget Calculator Project
+Student: Matthew Rich
+Date: [Insert Date Here]
+==============================
+
+📁 Project Folder: vacation_project/
+
+This document explains how I used Unix 1 and 2 commands and concepts in my Python budgeting project.
+
+------------------------------
+✅ Unix 1 Requirements
+------------------------------
+
+1. Commands
+-----------
+• ls vacation_project/          # View files in project folder
+• pwd                           # Confirm current working directory
+• cat expenses.txt              # View contents of logged expenses
+• touch notes.txt               # Created a notes file for testing
+
+2. Options
+----------
+• ls -l vacation_project/       # View file details like permissions and size
+• cat -n vacation_budget.py     # View code with line numbers
+
+3. Arguments
+------------
+• cat vacation_budget.py        # Used 'vacation_budget.py' as a file argument
+• ls vacation_project/          # Directory used as argument
+
+4. Text Editors
+---------------
+• nano vacation_budget.py       # Edited the script directly in the terminal
+
+5. Permissions
+--------------
+• ls -l vacation_budget.py      # Checked file permissions
+• chmod +x vacation_budget.py   # Made script executable
+
+------------------------------
+✅ Unix 2 Requirements
+------------------------------
+
+1. Advanced Commands
+--------------------
+• mkdir logs                    # Created folder to organize log files
+• cp vacation_budget.py vacation_budget_backup.py   # Backup copy of code
+• mv expenses.txt logs/         # Moved log file to logs folder
+• rm temp_file.txt              # Deleted unused file
+• less expenses.txt             # Viewed long file page-by-page
+
+2. Arguments and Options
+-------------------------
+• cp file1.py file2.py backup/  # Used multiple arguments
+• grep -i "Flight" expenses.txt # Option (-i) with an argument ("Flight")
+
+3. Kernels and Shells
+----------------------
+• echo $SHELL                   # Confirmed I was using /bin/bash
+• zsh                           # Switched to Zsh to test customizations
+
+4. Environment
+--------------
+• alias runbudget="python3 vacation_budget.py"
+→ Added this to ~/.bashrc for quicker execution
+
+• export PS1="💸 BudgetCalc > "
+→ Customized terminal prompt for fun and clarity
+
+------------------------------
+✅ Summary of Usage
+------------------------------
+I used Unix commands to organize, back up, and test my project files. Commands helped me track changes, clean up old files, and access my script from the terminal more efficiently.
+
+The setup.sh file automates creating folders and copying files using Unix commands.
+
+This document proves I applied both Unix 1 and Unix 2 course requirements directly to my budgeting project.
+
+==============================
