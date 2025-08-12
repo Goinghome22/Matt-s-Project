@@ -6,7 +6,7 @@ title: Contact
 # Contact Me
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="assets/img/dae-logo.svg" alt="dae Logo" style="height: 50px;">
+  <img src="assets/img/dae.png" alt="dae Logo" style="height: 50px;">
 </div>
 
 ## Get In Touch
