@@ -5,7 +5,7 @@ title: Home
 
 <div style="text-align: center;">
   <img src="assets/img/matt_dae_original.jpg" alt="Profile Photo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
-  <h1>Matt Johnson</h1>
+  <h1>Matt </h1>
   <p>Software Developer | Graduating June 2023</p>
 </div>
 

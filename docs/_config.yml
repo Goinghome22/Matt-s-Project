@@ -8,3 +8,10 @@ show_downloads: false
 github:
   is_project_page: true
   repository_url: https://github.com/yourusername/Matt-s-Project
+
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contacts.md
+  - resume.md
