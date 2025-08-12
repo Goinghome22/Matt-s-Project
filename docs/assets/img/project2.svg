@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f5f5f5"/>
+  
+  <!-- Task Management App mockup -->
+  <rect x="50" y="50" width="700" height="300" rx="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="50" y="50" width="700" height="60" rx="10" fill="#34A853"/>
+  <text x="100" y="85" font-family="Arial, sans-serif" font-size="20" fill="white">Task Management App</text>
+  
+  <!-- Sidebar -->
+  <rect x="50" y="110" width="150" height="240" fill="#f0f0f0"/>
+  <text x="70" y="140" font-family="Arial, sans-serif" font-size="16" fill="#333">Projects</text>
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="16" fill="#333">Tasks</text>
+  <text x="70" y="220" font-family="Arial, sans-serif" font-size="16" fill="#333">Team</text>
+  <text x="70" y="260" font-family="Arial, sans-serif" font-size="16" fill="#333">Calendar</text>
+  <text x="70" y="300" font-family="Arial, sans-serif" font-size="16" fill="#333">Reports</text>
+  
+  <!-- Task Columns -->
+  <rect x="220" y="120" width="160" height="220" rx="5" fill="#f9f9f9" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="400" y="120" width="160" height="220" rx="5" fill="#f9f9f9" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="580" y="120" width="160" height="220" rx="5" fill="#f9f9f9" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <!-- Column Headers -->
+  <rect x="220" y="120" width="160" height="30" rx="5" fill="#34A853"/>
+  <text x="270" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">To Do</text>
+  
+  <rect x="400" y="120" width="160" height="30" rx="5" fill="#FBBC05"/>
+  <text x="445" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">In Progress</text>
+  
+  <rect x="580" y="120" width="160" height="30" rx="5" fill="#4285F4"/>
+  <text x="635" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">Done</text>
+  
+  <!-- Task Cards -->
+  <rect x="230" y="160" width="140" height="50" rx="3" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="230" y="220" width="140" height="50" rx="3" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <rect x="410" y="160" width="140" height="50" rx="3" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <rect x="590" y="160" width="140" height="50" rx="3" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="590" y="220" width="140" height="50" rx="3" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+</svg>
