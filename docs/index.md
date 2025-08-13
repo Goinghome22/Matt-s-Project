@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap; margin-bottom:2rem; padding:1.5rem; background:#f8f9fa; border-radius:8px;">
-  <img src="{{ '/assets/img/matt_dae_original (1).jpg' | relative_url }}" alt="Headshot of Matthew Rich" 
+  <img src="{{ '/assets/img/matt_headshot.jpg' | relative_url }}" alt="Headshot of Matthew Rich" 
        style="max-width:160px; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,.15);">
   <div>
     <h1 style="margin:0; color:#2c3e50;">Matthew Rich</h1>
