@@ -2,9 +2,9 @@
 # SITE BASICS
 # =====================
 title: "Matthew Rich — Junior Cybersecurity Analyst"
-description: "Inspiring Junior Cybersecurity Analyst with a passion for analyzing, detecting, and protecting security systems from any potential threats.""
-url: "https://github.com/Goinghome22"# ← Your actual GitHub username
-baseurl: "Goinghome22.github.io" # ← Your actual repository name
+description: "Inspiring Junior Cybersecurity Analyst with a passion for analyzing, detecting, and protecting security systems from any potential threats."
+url: "https://goinghome22.github.io" # The base hostname & protocol
+baseurl: "/Matt-s-Project" # The subpath of your site
 
 # =====================
 # THEME (Modern)
