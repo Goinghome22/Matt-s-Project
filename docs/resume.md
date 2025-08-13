@@ -1,89 +1,66 @@
 ---
-layout: default
-title: Resume
+title: "Resume"
+permalink: /resume/
+layout: single
 ---
 
-# Resume
-
-<div style="text-align: center; margin: 20px 0;">
-  <img src="assets/img/dae-logo.svg" alt="dae Logo" style="height: 50px;">
+<div style="text-align:center; margin-bottom:2rem; padding:1.5rem; background:#f8f9fa; border-radius:8px;">
+  <h1 style="margin:0; color:#2c3e50;">Matthew Rich</h1>
+  <p style="margin:0.5rem 0; font-size:1.1rem; color:#34495e;">Junior Cybersecurity Analyst</p>
+  <p style="margin:0; color:#7f8c8d;">📧 matthew.rich@student.fairfield.edu | 🐙 GitHub: /Goinghome22</p>
 </div>
 
-<div style="text-align: right;">
-  <a href="assets/files/matt_johnson_resume.pdf" download class="btn">Download PDF</a>
-</div>
+## 🎓 Education
 
-## Education
+**District Arts & Education (DAE)**  
+*Cybersecurity Program*  
+*Expected Graduation: December 2025*  
 
-### Bachelor of Science in Computer Science
-**dae University** | Graduating June 2023
+**Fairfield University**  
+*Bachelor's Degree*  
+*Graduated: 2022*
 
-- GPA: 3.8/4.0
-- Relevant Coursework: Data Structures & Algorithms, Web Development, Database Systems, Software Engineering
-- Senior Project: Developed a machine learning application for predictive analytics
+**Relevant Skills:**
+- Python Programming
+- File Integrity Monitoring
+- Security Log Analysis
+- GitHub Version Control
+- Visual Studio Code
+- Figma
 
-## Technical Skills
+---
+
+## 💼 Experience
+
+**Teaching Assistant** | *Fairfield University* | *2020 - 2022*
+- Assisted professors with coursework and classroom management
+- Provided guidance and support to students to help them succeed
+- Leveraged previous course experience to explain complex concepts
+- Developed strong communication and mentoring skills
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
-- JavaScript (ES6+)
-- Python
-- HTML5/CSS3
-- SQL
-- Java
+- **Python** - Security tools, utility applications
 
-### Frameworks & Libraries
-- React.js
-- Node.js
-- Express
-- Django
-- Bootstrap
+### Development Tools
+- **GitHub** - Version control and collaboration
+- **Visual Studio Code** - Development environment
+- **Figma** - Design and prototyping
+- 
+### 
 
-### Tools & Platforms
-- Git/GitHub
-- Docker
-- AWS (EC2, S3, Lambda)
-- MongoDB
-- PostgreSQL
+---
 
-## Professional Experience
 
-### Software Development Intern
-**Tech Innovations Inc.** | Summer 2022
+---
 
-- Developed and maintained features for a customer-facing web application using React and Node.js
-- Collaborated with a team of 5 developers using Agile methodologies
-- Implemented responsive design principles, improving mobile user experience by 30%
-- Participated in code reviews and contributed to documentation
-
-### Web Development Assistant
-**University IT Department** | 2021 - 2022
-
-- Assisted in maintaining and updating university department websites
-- Created and implemented responsive designs using HTML, CSS, and JavaScript
-- Collaborated with content creators to optimize website performance
-- Provided technical support for content management systems
-
-## Projects
-
-### E-Commerce Platform
-- Developed a full-stack e-commerce application with user authentication and payment processing
-- Technologies: React, Node.js, MongoDB, Express
-
-### Task Management Application
-- Created a collaborative task management tool with real-time updates
-- Technologies: JavaScript, HTML/CSS, Firebase, Vue.js
-
-### Weather Forecast Application
-- Built a weather application providing forecasts and visualization of weather data
-- Technologies: Python, Django, OpenWeatherMap API, Bootstrap
-
-## Certifications
-
-- AWS Certified Developer – Associate
-- MongoDB Certified Developer
-- Responsive Web Design Certification – freeCodeCamp
-
-## Languages
-
-- English (Native)
-- Spanish (Intermediate)
+<div style="text-align:center; margin-top:2rem; padding:1rem; background:#e8f4fd; border-radius:8px;">
+  <p style="margin:0; font-style:italic; color:#2c3e50;">"Passionate about building secure systems that protect organizations while enabling innovation."</p>
+  
+  <div style="margin-top:1rem;">
+    <img src="{{ '/assets/img/dae-logo.jpg' | relative_url }}" alt="DAE Logo" style="height:30px; opacity:0.7;">
+  </div>
+</div>

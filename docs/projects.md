@@ -1,64 +1,86 @@
 ---
-layout: default
-title: Projects
+title: "Projects"
+permalink: /projects/
+layout: single
 ---
 
-# Projects
-
-Here are some of my recent projects that demonstrate my skills and interests.
-
-<div style="text-align: center; margin: 20px 0;">
-  <img src="assets/img/dae-logo.svg" alt="dae Logo" style="height: 50px;">
+<div style="margin-bottom:3rem;">
+  <h2>Featured Projects</h2>
+  <p>Here are some of the projects I've developed to demonstrate my cybersecurity skills and Python development abilities.</p>
 </div>
 
-## E-Commerce Platform
+## 🔐 File Integrity Monitoring System
 
-<img src="assets/img/project1.jpg" alt="E-Commerce Project Screenshot" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; margin: 20px 0;">
+<div style="background:#f8f9fa; padding:1.5rem; border-radius:8px; margin:1rem 0; border-left:4px solid #007bff;">
+  <p><strong>Tech Stack:</strong> Python</p>
+  <p><strong>Duration:</strong> 3 weeks | <strong>Status:</strong> Completed</p>
+</div>
 
-**Technologies Used**: React, Node.js, MongoDB, Express
+Developed a file integrity monitoring system that uses hashing to detect unauthorized changes to files. This project was created during the 3-week tech exploration program at DAE.
 
-**Description**: A full-stack e-commerce application with user authentication, product catalog, shopping cart, and payment processing integration. The platform includes an admin dashboard for inventory management and sales analytics.
+**Key Features:**
+- 🔒 **File Hashing**: Generates hash values to detect changes
+- 👥 **Attack Detection**: Identifies when files have been modified
+- 📝 **Monitoring**: Continuous checking of critical system files
+- 🛡️ **Security Alerts**: Notification when potential threats are detected
 
-**Key Features**:
-- Responsive design for mobile and desktop
-- User authentication and profile management
-- Product search and filtering
-- Secure payment processing
-
-[View Code](https://github.com/yourusername/ecommerce-platform) | [Live Demo](https://your-ecommerce-demo.com)
-
----
-
-## Task Management Application
-
-<img src="assets/img/project2.jpg" alt="Task Management App Screenshot" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; margin: 20px 0;">
-
-**Technologies Used**: JavaScript, HTML/CSS, Firebase, Vue.js
-
-**Description**: A collaborative task management tool that allows teams to organize projects, assign tasks, set deadlines, and track progress. The application includes real-time updates and notifications.
-
-**Key Features**:
-- Drag-and-drop interface for task organization
-- Team collaboration tools
-- Progress tracking and reporting
-- Calendar integration
-
-[View Code](https://github.com/yourusername/task-manager) | [Live Demo](https://your-taskmanager-demo.com)
+**Technical Highlights:**
+- Implementation of cryptographic hash functions
+- File system monitoring capabilities
+- Practical application of security monitoring principles
 
 ---
 
-## Weather Forecast Application
+## 💰 Vacation Budget Calculator
 
-<img src="assets/img/project3.jpg" alt="Weather App Screenshot" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; margin: 20px 0;">
+<div style="background:#f8f9fa; padding:1.5rem; border-radius:8px; margin:1rem 0; border-left:4px solid #28a745;">
+  <p><strong>Tech Stack:</strong> Python</p>
+  <p><strong>Duration:</strong> 2 weeks | <strong>Status:</strong> Completed</p>
+</div>
 
-**Technologies Used**: Python, Django, OpenWeatherMap API, Bootstrap
+Created a vacation budget calculator application that helps users plan their trips and manage expenses effectively. This project was developed during the first semester of the DAE program.
 
-**Description**: A weather forecast application that provides current weather conditions and 5-day forecasts for any location. The app includes visualization of weather data and location-based services.
+**Key Features:**
+- 📊 **Budget Tracking**: Monitors expenses across different categories
+- 🔍 **Financial Analysis**: Determines if the trip is over or under budget
+- 📋 **Trip Planning**: Helps users plan affordable vacations
+- 📈 **Expense Visualization**: Clear breakdown of where money is being spent
 
-**Key Features**:
-- Location-based weather forecasts
-- Interactive weather maps
-- Historical weather data
-- Weather alerts and notifications
+**Technical Highlights:**
+- User input validation and processing
+- Financial calculations and budget analysis
+- Practical Python application development
 
-[View Code](https://github.com/yourusername/weather-app) | [Live Demo](https://your-weather-demo.com)
+---
+
+## 🚨 Small-Scale SOC Simulation
+
+<div style="background:#f8f9fa; padding:1.5rem; border-radius:8px; margin:1rem 0; border-left:4px solid #dc3545;">
+  <p><strong>Tech Stack:</strong> Python, Log Analysis Tools</p>
+  <p><strong>Duration:</strong> In Progress | <strong>Status:</strong> In Development</p>
+</div>
+
+Currently developing a small-scale Security Operations Center (SOC) simulation that focuses on file monitoring and log collection to detect security threats.
+
+**Key Components:**
+- 📊 **Log Collection**: Gathering security-relevant logs from various sources
+- 🔍 **Threat Detection**: Identifying potential security incidents
+- 📋 **Incident Response**: Developing procedures to address security issues
+- 📈 **Security Analysis**: Evaluating threats and determining appropriate actions
+
+**Learning Objectives:**
+- Understanding security monitoring fundamentals
+- Developing incident response capabilities
+- Implementing preventative security measures
+
+---
+
+<div style="text-align:center; margin-top:3rem; padding:2rem; background:#f8f9fa; border-radius:8px;">
+  <h3>Want to Learn More?</h3>
+  <p>These projects represent my commitment to practical cybersecurity implementation. Each project includes detailed documentation, security considerations, and lessons learned.</p>
+  <p><a href="/contact/" style="background:#007bff; color:white; padding:0.5rem 1rem; text-decoration:none; border-radius:4px;">Get in Touch</a></p>
+  
+  <div style="margin-top:2rem;">
+    <img src="{{ '/assets/img/dae-logo.jpg' | relative_url }}" alt="DAE Logo" style="height:40px; opacity:0.7;">
+  </div>
+</div>

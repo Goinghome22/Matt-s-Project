@@ -1,41 +1,65 @@
 ---
-layout: default
-title: About Me
+title: "About Me"
+permalink: /about/
+layout: single
 ---
 
-# About Me
-
-<div style="text-align: center; margin-bottom: 30px;">
-  <img src="assets/img/matt_dae_original.jpg" alt="Profile Photo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">`
+<div style="text-align:center; margin-bottom:2rem;">
+  <img src="{{ '/assets/img/pinky.jpg' | relative_url }}" alt="Matthew Rich" 
+       style="max-width:200px; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,.15);">
 </div>
 
-## Career Aspirations
+## My Journey in Cybersecurity
 
-I want to continue to learn, grow, and develop my overall technology skills so that I can eventually land an entry level role in cybersecurity.
-### Ideal Work Environment
+I'm focused on developing my technical skills in cybersecurity to prepare for an entry-level role in the field. Currently enhancing my cybersecurity knowledge at DAE, with an expected graduation in **December 2025**.
 
-- **Team Culture**: I thrive when I work with others as part of a team to come together and achieve common goals. Particularly in cybersecurity, I understand that communication and collaboration are key to success since we all have to analyze, detect, and protect against various threats.
-- **Company Values**: I want to work in a company that cares about their employees and their overall well being. I want to work in a company that pays well, provides benefits, and provides a safe and secure work environment.
-- **Work Style**: I feel as though I can work both independently and as part of a team. I believe that I can balance both styles since they are needed in different situations. 
+I graduated from **Fairfield University** in 2022 and am now pursuing a career transition into cybersecurity. I'm actively seeking an **entry-level Cybersecurity Analyst** position where I can apply my skills and continue learning from experienced professionals.
 
-## Personal Interests
+### Core Interests & Skills
 
-Outside of technology, I also enjoy: 
+🔍 **Security Monitoring**  
+Developing and implementing file integrity monitoring solutions to detect unauthorized changes and potential security threats.
 
-sports
-nature
-vacationing
+🚨 **Python Development**  
+Building practical applications including security tools and utility programs like budget calculators.
 
-## Values
+🔐 **SOC Operations**  
+Learning the fundamentals of Security Operations Center activities including log analysis and incident response.
 
-- **Continuous Learning**: My family and I believe very strongly in education and the idea that you can never stop learning, so any chance that we can get to enhance our skills and knowledge is something that we will always strive for no matter what.
-- **Problem Solving**: I feel as though I am very good at organization, which I feel is a very crucial component of problem solving. I have the ability to think critically and not miss any steps in any sort of issue that may arise.
-- **Quality**: I take pride in who I am as a person and I really care about the quality of my work. I am someone who has always had to work hard from when I was young, so that is nothing new to me. If something is not up to a potential standard, I will do everything in my power to fix it and make sure that it is correct. 
-- **Collaboration**: I am under the impression that in some situations, working with a team can sometimes help accelerate certain tasks and projects. However, I also understand that there could be times where you may have to work through things on your own and can't always seek help or guidance from someone else. Therefore, as long as there is a balance between the two, you should have a good chance of being successful anywhere you go.
+### Technical Skills
 
-## Technical Skills
+**Programming Languages:**
+- Python (Security tools, utility applications)
 
-- **Languages**: Python
-- **Frameworks/Libraries**: 
-- **Tools**: GitHub, Visual Studio Code, Figma
-- **Methodologies**: 
+**Development Tools:**
+- GitHub (Version control)
+- Visual Studio Code (Development environment)
+- Figma (Design and prototyping)
+
+**Security Focus Areas:**
+- File integrity monitoring
+- Log analysis
+- Threat detection
+
+### Education
+
+**District Arts & Education (DAE)**  
+*Cybersecurity Program*  
+*Expected Graduation: December 2025*
+
+**Fairfield University**  
+*Bachelor's Degree*  
+*Graduated: 2022*
+
+**Certifications**  
+Currently planning to pursue cybersecurity certifications
+
+**Relevant Coursework:**
+- Network Security & Penetration Testing
+- Secure Software Development
+- Digital Forensics & Incident Response
+- Cloud Security Architecture
+
+---
+
+*"Security is not a product, but a process. It's about building systems that fail securely and recover gracefully."*

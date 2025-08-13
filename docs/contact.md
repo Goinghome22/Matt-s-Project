@@ -1,119 +1,88 @@
 ---
-layout: default
-title: Contact
+title: "Contact"
+permalink: /contact/
+layout: single
 ---
 
-# Contact Me
-
-<div style="text-align: center; margin: 20px 0;">
-  <img src="assets/img/dae.png" alt="dae Logo" style="height: 50px;">
+<div style="text-align:center; margin-bottom:3rem;">
+  <img src="matt_dae_original (1).jpg" alt="Matthew Rich" 
+       style="max-width:150px; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,.15);">
+  <h2 style="margin:1rem 0 0.5rem; color:#2c3e50;">Let's Connect</h2>
+  <p style="color:#7f8c8d; font-size:1.1rem;">I'm always interested in discussing cybersecurity, backend development, and new opportunities.</p>
 </div>
 
-## Get In Touch
+## 📬 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-<div class="contact-methods">
-  <div class="contact-method">
-    <h3>Email</h3>
-    <p><a href="mailto:matt.johnson@example.com">matt.johnson@example.com</a></p>
+<div style="display:grid; gap:1.5rem; margin:2rem 0;">
+  
+  <div style="background:#f8f9fa; padding:1.5rem; border-radius:8px; border-left:4px solid #007bff;">
+    <h3 style="margin:0 0 0.5rem; color:#2c3e50;">📧 Email</h3>
+    <p style="margin:0; font-size:1.1rem;"><a href="mailto:matthew.rich@student.fairfield.edu" style="color:#007bff; text-decoration:none;">matthew.rich@student.fairfield.edu</a></p>
+    <p style="margin:0.5rem 0 0; color:#6c757d; font-size:0.9rem;">Best for professional inquiries and detailed discussions</p>
   </div>
   
-  <div class="contact-method">
-    <h3>LinkedIn</h3>
-    <p><a href="https://linkedin.com/in/mattjohnson" target="_blank">linkedin.com/in/mattjohnson</a></p>
+  <div style="background:#f8f9fa; padding:1.5rem; border-radius:8px; border-left:4px solid #0077b5;">
+    <h3 style="margin:0 0 0.5rem; color:#2c3e50;">💼 LinkedIn</h3>
+    <p style="margin:0; font-size:1.1rem;"><a href="#" style="color:#0077b5; text-decoration:none;">LinkedIn profile coming soon</a></p>
+    <p style="margin:0.5rem 0 0; color:#6c757d; font-size:0.9rem;">Connect for networking and professional updates</p>
   </div>
   
-  <div class="contact-method">
-    <h3>GitHub</h3>
-    <p><a href="https://github.com/mattjohnson" target="_blank">github.com/mattjohnson</a></p>
+  <div style="background:#f8f9fa; padding:1.5rem; border-radius:8px; border-left:4px solid #333;">
+    <h3 style="margin:0 0 0.5rem; color:#2c3e50;">🐙 GitHub</h3>
+    <p style="margin:0; font-size:1.1rem;"><a href="https://github.com/Goinghome22" style="color:#333; text-decoration:none;">github.com/Goinghome22</a></p>
+    <p style="margin:0.5rem 0 0; color:#6c757d; font-size:0.9rem;">Explore my code, projects, and contributions</p>
   </div>
+  
 </div>
 
-## Contact Form
+---
 
-<form action="https://formspree.io/f/your-form-id" method="POST" class="contact-form">
-  <div class="form-group">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="email">Email</label>
-    <input type="email" id="email" name="_replyto" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="subject">Subject</label>
-    <input type="text" id="subject" name="subject" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="message">Message</label>
-    <textarea id="message" name="message" rows="5" required></textarea>
-  </div>
-  
-  <button type="submit" class="btn">Send Message</button>
-</form>
+## 🎯 What I'm Looking For
 
-<style>
-  .contact-methods {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 30px 0;
-  }
+<div style="background:#e8f4fd; padding:2rem; border-radius:8px; margin:2rem 0;">
+  <h3 style="margin:0 0 1rem; color:#2c3e50;">Entry-Level Cybersecurity Opportunities</h3>
+  <p style="margin:0 0 1rem; line-height:1.6;">I'm actively seeking <strong>Junior Cybersecurity Analyst</strong> roles where I can:</p>
   
-  .contact-method {
-    flex-basis: 30%;
-    margin-bottom: 20px;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    text-align: center;
-  }
+  <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
+    <li>🛡️ Apply my cybersecurity knowledge in a professional environment</li>
+    <li>🔍 Develop practical security monitoring and analysis skills</li>
+    <li>🤝 Work with experienced professionals to grow my capabilities</li>
+    <li>📚 Continue learning and advancing in the cybersecurity field</li>
+    <li>🏠 Preferably in a local position without a long commute</li>
+    <li>🚀 Contribute to innovative security solutions</li>
+  </ul>
+</div>
+
+## 💬 Let's Discuss
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:1rem; margin:2rem 0;">
   
-  .contact-form {
-    max-width: 600px;
-    margin: 0 auto;
-  }
+  <div style="background:#fff3cd; padding:1rem; border-radius:6px; text-align:center;">
+    <h4 style="margin:0 0 0.5rem; color:#856404;">🔐 Cybersecurity</h4>
+    <p style="margin:0; font-size:0.9rem; color:#6c757d;">SOC operations, threat hunting, incident response</p>
+  </div>
   
-  .form-group {
-    margin-bottom: 20px;
-  }
+  <div style="background:#d1ecf1; padding:1rem; border-radius:6px; text-align:center;">
+    <h4 style="margin:0 0 0.5rem; color:#0c5460;">⚙️ Backend Development</h4>
+    <p style="margin:0; font-size:0.9rem; color:#6c757d;">Secure APIs, authentication, system architecture</p>
+  </div>
   
-  .form-group label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-  }
+  <div style="background:#d4edda; padding:1rem; border-radius:6px; text-align:center;">
+    <h4 style="margin:0 0 0.5rem; color:#155724;">☁️ Cloud Security</h4>
+    <p style="margin:0; font-size:0.9rem; color:#6c757d;">AWS/Azure security, infrastructure protection</p>
+  </div>
   
-  .form-group input,
-  .form-group textarea {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-  }
+</div>
+
+---
+
+<div style="text-align:center; margin-top:3rem; padding:2rem; background:#f8f9fa; border-radius:8px;">
+  <h3 style="margin:0 0 1rem; color:#2c3e50;">Ready to Connect?</h3>
+  <p style="margin:0 0 1.5rem; color:#6c757d;">Whether you're looking to discuss security challenges, explore collaboration opportunities, or just want to chat about the latest in cybersecurity, I'd love to hear from you!</p>
   
-  .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #333;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    text-decoration: none;
-  }
+  <a href="mailto:alex.rivera@email.com" style="background:#007bff; color:white; padding:0.75rem 1.5rem; text-decoration:none; border-radius:6px; font-weight:bold; display:inline-block;">Send me an email</a>
   
-  .btn:hover {
-    background-color: #555;
-  }
-  
-  @media (max-width: 768px) {
-    .contact-method {
-      flex-basis: 100%;
-    }
-  }
-</style>
+  <div style="margin-top:2rem;">
+    <img src="{{ '/assets/img/dae-logo.jpg' | relative_url }}" alt="DAE Logo" style="height:35px; opacity:0.7;">
+  </div>
+</div>
