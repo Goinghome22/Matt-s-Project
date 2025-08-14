@@ -23,7 +23,7 @@ layout: single
   
   <div style="background:#f8f9fa; padding:1.5rem; border-radius:8px; border-left:4px solid #0077b5;">
     <h3 style="margin:0 0 0.5rem; color:#2c3e50;">💼 LinkedIn</h3>
-    <p style="margin:0; font-size:1.1rem;"><a href="#" style="color:#0077b5; text-decoration:none;">LinkedIn profile coming soon</a></p>
+    <p style="margin:0; font-size:1.1rem;"><a href="https://www.linkedin.com/in/matthew-rich-15910a196" style="color:#0077b5; text-decoration:none;">linkedin.com/in/matthew-rich-15910a196</a></p>
     <p style="margin:0.5rem 0 0; color:#6c757d; font-size:0.9rem;">Connect for networking and professional updates</p>
   </div>
   
@@ -37,21 +37,7 @@ layout: single
 
 ---
 
-## 🎯 What I'm Looking For
 
-<div style="background:#e8f4fd; padding:2rem; border-radius:8px; margin:2rem 0;">
-  <h3 style="margin:0 0 1rem; color:#2c3e50;">Entry-Level Cybersecurity Opportunities</h3>
-  <p style="margin:0 0 1rem; line-height:1.6;">I'm actively seeking <strong>Junior Cybersecurity Analyst</strong> roles where I can:</p>
-  
-  <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-    <li>🛡️ Apply my cybersecurity knowledge in a professional environment</li>
-    <li>🔍 Develop practical security monitoring and analysis skills</li>
-    <li>🤝 Work with experienced professionals to grow my capabilities</li>
-    <li>📚 Continue learning and advancing in the cybersecurity field</li>
-    <li>🏠 Preferably in a local position without a long commute</li>
-    <li>🚀 Contribute to innovative security solutions</li>
-  </ul>
-</div>
 
 ## 💬 Let's Discuss
 
@@ -80,7 +66,7 @@ layout: single
   <h3 style="margin:0 0 1rem; color:#2c3e50;">Ready to Connect?</h3>
   <p style="margin:0 0 1.5rem; color:#6c757d;">Whether you're looking to discuss security challenges, explore collaboration opportunities, or just want to chat about the latest in cybersecurity, I'd love to hear from you!</p>
   
-  <a href="mailto:alex.rivera@email.com" style="background:#007bff; color:white; padding:0.75rem 1.5rem; text-decoration:none; border-radius:6px; font-weight:bold; display:inline-block;">Send me an email</a>
+  <a href="mailto:matthew.rich@student.fairfield.edu" style="background:#007bff; color:white; padding:0.75rem 1.5rem; text-decoration:none; border-radius:6px; font-weight:bold; display:inline-block;">Send me an email</a>
   
   <div style="margin-top:2rem;">
     <img src="{{ '/assets/img/dae-logo.jpg' | relative_url }}" alt="DAE Logo" style="height:35px; opacity:0.7;">
