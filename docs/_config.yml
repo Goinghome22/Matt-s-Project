@@ -17,7 +17,7 @@ minimal_mistakes_skin: "default"
 # =====================
 author:
     name: "Matthew Rich"
-    avatar: "matt_dae_original (1).jpg"
+    avatar: "/assets/img/matt_headshot.jpg"
     bio: "Inspiring Junior Cybersecurity Analyst with a passion for analyzing, detecting, and protecting security systems from any potential threats"
     email: "matthew.rich@student.fairfield.edu"
     links:
@@ -26,7 +26,7 @@ author:
           url: "https://github.com/Goinghome22"
         - label: "LinkedIn"
           icon: "fab fa-linkedin"
-          url: "https://www.linkedin.com/in/matthew-rich-15910a196/"
+          url: "https://www.linkedin.com/in/matthew-rich-15910a196"
 
 # =====================
 # NAVIGATION (top menu)

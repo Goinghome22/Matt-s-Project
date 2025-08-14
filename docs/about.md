@@ -62,4 +62,22 @@ Currently planning to pursue cybersecurity certifications
 
 ---
 
+## 🎯 What I'm Looking For
+
+<div style="background:#e8f4fd; padding:2rem; border-radius:8px; margin:2rem 0;">
+  <h3 style="margin:0 0 1rem; color:#2c3e50;">Entry-Level Cybersecurity Opportunities</h3>
+  <p style="margin:0 0 1rem; line-height:1.6;">I'm actively seeking <strong>Junior Cybersecurity Analyst</strong> roles where I can:</p>
+  
+  <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
+    <li>🛡️ Apply my cybersecurity knowledge in a professional environment</li>
+    <li>🔍 Develop practical security monitoring and analysis skills</li>
+    <li>🤝 Work with experienced professionals to grow my capabilities</li>
+    <li>📚 Continue learning and advancing in the cybersecurity field</li>
+    <li>🏠 Preferably in a local position without a long commute</li>
+    <li>🚀 Contribute to innovative security solutions</li>
+  </ul>
+</div>
+
+---
+
 *"Security is not a product, but a process. It's about building systems that fail securely and recover gracefully."*
