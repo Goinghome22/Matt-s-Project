@@ -2,6 +2,7 @@
 title: "Contact"
 permalink: /contact/
 layout: single
+author_profile: true
 ---
 
 <div style="text-align:center; margin-bottom:3rem;">

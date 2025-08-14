@@ -2,6 +2,7 @@
 title: "Projects"
 permalink: /projects/
 layout: single
+author_profile: true
 ---
 
 <div style="margin-bottom:3rem;">

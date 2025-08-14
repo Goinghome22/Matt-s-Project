@@ -2,6 +2,7 @@
 title: "Resume"
 permalink: /resume/
 layout: single
+author_profile: true
 ---
 
 <div style="text-align:center; margin-bottom:2rem; padding:1.5rem; background:#f8f9fa; border-radius:8px;">
