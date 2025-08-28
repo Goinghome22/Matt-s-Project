@@ -7,7 +7,8 @@ A comprehensive track emphasizing Unix proficiency, Python development, and secu
 - Semester 1: Unix, Python, Logic, and a File Integrity Monitor project
   - unix_1, unix_2, python_2, logic_1, FileIntegrityMonitor
 - Semester 2: Applied artifacts and planning
-  - Flowcharts, algorithm design (FigJam), SOC project plan, and role research
+  - Flowcharts, algorithm design (FigJam), SOC project plan, and role research  
+  foundation deck, linkedin profile, resume, IDP, feedback summary, project plan, job description, project board 
 
 ## Highlights
 
