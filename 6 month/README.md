@@ -9,7 +9,7 @@ A comprehensive track emphasizing Unix proficiency, Python development, and secu
 - Semester 2: Applied artifacts and planning
   - Flowcharts, algorithm design (FigJam), SOC project plan, and role research  
   foundation deck, linkedin profile, resume, IDP, feedback summary, project plan, job description, project board 
-
+https://www.linkedin.com/in/matthew-rich-15910a196/   https://github.com/Goinghome22   https://docs.google.com/document/d/16YaTse_WIO19zznnRmGVpRbD16IVOnnjY0PCPaQjZ8Q/edit?tab=t.0
 ## Highlights
 
 - Unix command-line mastery tied to real projects
