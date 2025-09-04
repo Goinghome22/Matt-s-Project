@@ -21,9 +21,9 @@ def is_empty():
 def size():
     return len(stack)
 
-push()
-push()
-push()
+push(7)
+push(8)
+push(9)
 print("Top of stack:", peek())
 print("Stack size:", size())
 print("Popped:", pop())
