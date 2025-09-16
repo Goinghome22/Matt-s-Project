@@ -27,11 +27,9 @@ I'm passionate about developing my skills in **cybersecurity** to help organizat
 
 As I work toward graduation in **December 2025**, I'm seeking opportunities in **entry-level Cybersecurity** roles where I can apply my skills, grow professionally, and learn from experienced security professionals.
 
+[![pages-build-deployment](https://github.com/Goinghome22/Matt-s-Project/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Goinghome22/Matt-s-Project/actions/workflows/pages/pages-build-deployment)
 ---
 
 <div style="text-align:center; margin-top:2rem;">
   <img src="{{ '/assets/img/dae-logo.jpg' | relative_url }}" alt="DAE Logo" style="height:40px; opacity:0.8;">
 </div>
-
-
-[![pages-build-deployment](https://github.com/Goinghome22/Matt-s-Project/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Goinghome22/Matt-s-Project/actions/workflows/pages/pages-build-deployment)
