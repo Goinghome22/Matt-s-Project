@@ -10,6 +10,7 @@ A comprehensive track emphasizing Unix proficiency, Python development, and secu
   - Flowcharts, algorithm design (FigJam), SOC project plan, and role research  
   foundation deck, linkedin profile, resume, IDP, feedback summary, project plan, job description, project board 
 https://www.linkedin.com/in/matthew-rich-15910a196/   https://github.com/Goinghome22   https://docs.google.com/document/d/16YaTse_WIO19zznnRmGVpRbD16IVOnnjY0PCPaQjZ8Q/edit?tab=t.0
+Semester 3: Project Work, specifically course rubric requirements where some of them were actually components of my project. For example, some of the rubric requirements such as documentation, implementation, incident response plans, and security reports that I completed tie in to my main project and not just regular coursework. I did not really dive in hands on yet with wazuh and parrot os as I just have it set up right now, but what I did focus on a lot this semester was just trying to get familiar with them as much as possible and doing some troubleshooting and practicing exercises for myself so I can learn the basics and understand a little bit of how they work. Now that I did that, I want to continue to learn and grow with these applications and eventually use them for my actual project; my simulation. 
 ## Highlights
 
 - Unix command-line mastery tied to real projects
